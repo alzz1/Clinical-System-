@@ -1,4 +1,3 @@
-=======
 # 🏥 Medical Scheduling System
 
 Um sistema de agendamento de consultas médicas desenvolvido em **Go (Golang)**, seguindo princípios de Clean Architecture e boas práticas de desenvolvimento backend.
