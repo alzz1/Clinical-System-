@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Skeleton
-
-Projeto baseado no roadmap. TODOs apenas.
 =======
 # 🏥 Medical Scheduling System
 
